@@ -3,7 +3,5 @@ echo 'hello world';
 
 print
   
-  
-  end
-
+  exit
 
