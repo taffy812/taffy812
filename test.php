@@ -2,9 +2,7 @@
 echo 'hello world';
 
 print
-  
 
-  
   
   
   
