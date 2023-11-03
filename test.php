@@ -5,6 +5,5 @@ print
 
   
   
-  
   exit
 
