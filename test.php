@@ -6,8 +6,5 @@ print
   
 
   
-
-  
-  
   exit
 
